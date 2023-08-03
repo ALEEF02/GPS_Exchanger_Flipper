@@ -1,3 +1,7 @@
+# GPS-Exchanger-Flipper
+
+Share your GPS location from your phone with other Flippers via SubGHz
+
 # Flipper Zero BT Serial Example App
 
 This is a very simple Serial-over-Bluetooth app for Flipper Zero. You can use it (but better not to :D) as a reference app for building your own solutions. 
@@ -24,5 +28,4 @@ Specifically, try to write into `tx` channel some bytes.
 
 ## How to build?
 See [this](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/AppsOnSDCard.md) official documentation on how to build external applications for Flipper Zero.
-
 
